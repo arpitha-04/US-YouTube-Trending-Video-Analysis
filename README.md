@@ -1,4 +1,3 @@
-# US-YouTube-Trending-Video-Analysis
 # US YouTube Trending Video Analysis
 
 This project explores the **US YouTube Trending Videos dataset** using **Exploratory Data Analysis (EDA)** and data visualization techniques to understand trending behavior and engagement patterns.
